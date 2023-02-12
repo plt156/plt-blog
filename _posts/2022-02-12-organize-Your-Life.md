@@ -20,4 +20,4 @@ So is there any particular fragrance or flavor—sage? Lavender? What do you hav
 
 And we don't want to trigger too many emotions late night just before bed time. 
 
-If you want to know more about Soy wax and how to get your own sleep inducing candles at home, check out my shop page here: https://www.etsy.com/shop/prettylittlethingsab
+If you want to know more about Soy wax and how to get your own sleep inducing candles at home, check out my shop page [here in etsy](https://www.etsy.com/shop/prettylittlethingsab)
