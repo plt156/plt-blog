@@ -13,11 +13,11 @@ preloader: true # To disable preloader change value to false
 
 menu:
   - name: Home
-    url: /
+    url: /plt-blog
   - name: About
-    url: /about/
+    url: /plt-blog/about/
   - name: Contact
-    url: /contact/
+    url: /plt-blog/contact/
 
 # *** NOTE ***
 # You can add submenus. For example:
