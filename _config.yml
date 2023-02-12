@@ -4,10 +4,10 @@
 baseurl: "" # The subpath of your site, e.g. /blog
 url: "" # The base hostname & protocol for your site, e.g. http://example.com
 
-title: Parsa | Portfolio Jekyll Template
+title: Pretty Little Things | By Avnika Bhandari
 logo: /assets/images/logo.png # You can add own logo
-description: # Add your awesome description
-copyright: Copyright 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)
+description:  Pretty Little Things, a place where creativity, art, and imagination meet.
+copyright: Please DM [Avnikkaa](http://instagram.com/prettylittlethings.24) for using any image/content
 # Preloader
 preloader: true # To disable preloader change value to false
 
@@ -37,32 +37,32 @@ featured-post-slider: true # You can enable or disable the featured-post-slider 
 #-------------------------------
 # Hero Section
 hero:
-  hero-subtitle: I’m a Freelance Interactive Art Director based in France. Focusing across branding and identity, digital and print.
+  hero-subtitle: Pretty Little Things offers handmade soaps, scented candles, and unique resin products crafted with love by Avnika Bhandari. Each piece is one-of-a-kind, exclusively made by hand to provide you with an enjoyable and sensory experience. 
   hero-banner: /assets/images/banner-img.png # Add your banner image '/assets/images/'
 
 #-------------------------------
 # Author Settings
 author:
-  name: Jhon Abraham
+  name: Avnikkaa & Karan Bhandari
 
 #-------------------------------
 # Contact Info
 contact:
-  email: example@ymail.com
-  phone: +90 000 333 22
+  email: avnika18@live.com
+  phone: 
   address:
-    city: Sydney
-    street: 6 rip carl Avenue CA 90733
+    city: Bangalore
+    street: Sraddha Whitecliff, Seegehalli Village Rd, kadugodi
 
 # Contact Form
-contact-form: example@email.com
+contact-form: avnika18@live.com
 
 # Social links
 social:
-  - { icon: "ti-facebook", link: "#" }
-  - { icon: "ti-twitter-alt", link: "#" }
-  - { icon: "ti-linkedin", link: "#" }
-  - { icon: "ti-github", link: "#" }
+  - { icon: "ti-instagram", link: "https://instagram.com/prettylittlethings.24" }
+  - { icon: "ti-shopping-cart", link: "https://prettylittlethingsab.etsy.com" }
+  - { icon: "ti-bag", link: "https://bit.ly/flipkartplt156" }
+  - { icon: "ti-desktop", link: "https://tinyurl.com/plt156" }
 
 #-------------------------------
 # Comment Section (Disqus)
@@ -70,7 +70,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 
 #-------------------------------
 # Instagram Feed
-instafeed: true # To enable the instafeed, use the value true. To turn off use the value false.
+instafeed: false # To enable the instafeed, use the value true. To turn off use the value false.
 userID: 4044026246
 accessToken: 4044026246.1677ed0.8896752506ed4402a0519d23b8f50a17
 
