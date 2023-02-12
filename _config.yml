@@ -1,8 +1,8 @@
 ---
 #-------------------------------
 # General Site Settings
-baseurl: "" # The subpath of your site, e.g. /blog
-url: "" # The base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/plt-blog" # The subpath of your site, e.g. /blog
+url: "https://plt156.github.io" # The base hostname & protocol for your site, e.g. http://example.com
 
 title: Pretty Little Things | By Avnika Bhandari
 logo: /assets/images/logo.png # You can add own logo
