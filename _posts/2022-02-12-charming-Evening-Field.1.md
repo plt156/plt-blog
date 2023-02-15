@@ -17,3 +17,6 @@ However, while candles can uplift our moods, they cannot provide heat. If you li
 The use of candles in candle marches, mass prayers or as a way to remember the departed, has a profound emotional impact. It serves as a reminder that we are not alone and that there is hope even in the darkest of times.
 
 So, if you're looking to participate in a candle march or simply use candles as a way to lift your mood, remember to always use them safely and follow the rules to avoid any accidents.
+
+
+- [Cover image: amber candle - puchase link on Flipkart](https://www.flipkart.com/avnika-bhandari-scented-amber-jar-candle-mood-elevation-room-freshner-luxury-home-decor/p/itm08496a4312a72?pid=CANGM4P8GAPYMSAZ)

@@ -13,3 +13,6 @@ Have you heard of spells and incantations performed with candles? Have you seen 
 But what is the science behind it all? Well, the idea behind candle magic is that the flame represents our intention, and the heat and light released from the candle help to magnify our intention and make it a reality. By adding spices and engraving spells on the candle, people are believed to add even more energy and power to their intention.
 
 However, it's important to note that this is not a widely accepted scientific concept, and many people may see it simply as a form of entertainment or superstition. Regardless, candle magic and spellwork have been a part of human cultures for centuries and continue to be popular today.
+
+
+- [Cover image is a Dough bowl candle - click to Buy on Flipkart](https://www.flipkart.com/avnika-bhandari-dough-bowl-candle/p/itmc0ae74fa9d72f?pid=CANGKDG4NQZTFZUT)

@@ -19,3 +19,5 @@ There is also a new entrant in the market – LED candles. While these candles p
 When using candles in your home, it's important to always follow safety guidelines. Place the candle on a flat surface, light it in sight, and never leave it burning unattended. It's also recommended to not burn a candle for more than four hours at a time and to extinguish it and allow the wax to cool before trimming it to 1/4 of an inch before relighting.
 
 In conclusion, fragrance preference is a personal matter, and there are a variety of options available for incorporating fragrance into your home. Whether you choose sage, lotus, or another fragrance, the benefits of candles go beyond just the scent. They offer a calming and relaxing atmosphere that can uplift the mood and promote relaxation. Just remember to always follow safety guidelines and enjoy the benefits of incorporating candles into your home.
+
+- [mini urli Purchase Link](https://www.flipkart.com/avnika-bhandari-mini-candle-urli-100-soy-wax-hand-poured-fragrance-infused/p/itma0f9432080d27?pid=CANGKDHEY6JWZ9V8)

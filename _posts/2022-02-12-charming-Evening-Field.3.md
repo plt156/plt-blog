@@ -13,3 +13,5 @@ Candles have long played a big role in prayer and meditation. People use candles
 In many cultures, candles are also used to honor the dead and to show support for someone who has passed away. Whether you're using candles in a religious or spiritual context or simply using them to create a peaceful atmosphere in your home, they can have a powerful impact on your mood and well-being.
 
 In conclusion, candles have a lot of different uses and meanings, from spells and incantations to prayer and meditation. Whether you're using them for spiritual purposes or simply to create a calming atmosphere, it's important to use them safely and responsibly.
+
+- [Cover Image is Large Urli - purchase link](https://www.etsy.com/in-en/listing/1337351804/large-candle-urli-100-soy-wax-hand?click_key=96ca7549e95b0353611aa588b37f2dc2cb3191d2%3A1337351804&click_sum=eb7d1968&ref=shop_home_active_4&frs=1)
