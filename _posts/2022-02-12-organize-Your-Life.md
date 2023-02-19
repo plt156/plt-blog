@@ -6,7 +6,7 @@ description: "Candles and sleep have a connection"
 featured: true
 image: "assets/images/featured-post/post-1.jpg"
 categories: 
-  - "Lifestyle"
+  - "Candle"
 ---
 
 

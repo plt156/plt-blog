@@ -6,7 +6,7 @@ description: "Amazon Flipkart Etsy"
 featured: true
 image: "assets/images/featured-post/post-3.jpg"
 categories: 
-  - "Fashion"
+  - "Candle"
 ---
 
 

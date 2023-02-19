@@ -6,7 +6,7 @@ description: "Candles have a calming effect on us"
 featured: true
 image: "assets/images/featured-post/post-2.jpg"
 categories: 
-  - "Philosophy"
+  - "Candle"
 ---
 
 Yes. It's about the neurotransmitter sending messages to the brain after we smell something. So yes we can.

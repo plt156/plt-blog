@@ -6,7 +6,7 @@ description: "Candle Care"
 featured: true
 image: "assets/images/featured-post/post-5.jpg"
 categories: 
-  - "Satety"
+  - "Candle"
 ---
 
 

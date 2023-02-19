@@ -6,7 +6,7 @@ description: "element fire can help rid your body of unwanted energies"
 featured: true
 image: "assets/images/featured-post/post-4.jpg"
 categories: 
-  - "Outlook"
+  - "Candle"
 ---
 
 It's easy to get caught up in the negativity of life and feel like there's no way out. But candles can help you take back control, by helping you clear away the negative energy that has been holding you back.
