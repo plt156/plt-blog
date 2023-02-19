@@ -19,4 +19,6 @@ The use of candles in candle marches, mass prayers or as a way to remember the d
 So, if you're looking to participate in a candle march or simply use candles as a way to lift your mood, remember to always use them safely and follow the rules to avoid any accidents.
 
 
-- [Cover image: amber candle - puchase link on Flipkart](https://www.flipkart.com/avnika-bhandari-scented-amber-jar-candle-mood-elevation-room-freshner-luxury-home-decor/p/itm08496a4312a72?pid=CANGM4P8GAPYMSAZ)
+<div class="col-12">
+    <a class="btn btn-primary" _target="_blank" href="https://www.flipkart.com/avnika-bhandari-mini-candle-urli-100-soy-wax-hand-poured-fragrance-infused/p/itma0f9432080d27?pid=CANGKDHEY6JWZ9V8" type="submit">Cover Image is a mini urli - Flipkart Purchase link</a>
+</div>
