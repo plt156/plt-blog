@@ -7,10 +7,10 @@
 
       for (var i = 0; i < results.length; i++) {  // Iterate over the results
         var item = store[results[i].ref];
-        appendString += '<li class="border-bottom mb-4 pb-3"><h4><a class="text-dark" href="' + item.url + '">' + item.title + '</a></h4>';
+        appendString += '<li class="border-bottom mb-4 pb-3"><h4><a class="text-dark" href="' + item.url.replace('github.io','github.io/plt-blog') + '">' + item.title + '</a></h4>';
         appendString +='<p>' + item.date + '</p>';
         appendString += '<p>' + item.content.substring(0, 245) + '...</p>';
-        appendString += '<a href="' + item.url + '" class="btn btn-transparent pl-0">' + "Read More" + '</a></li>';
+        appendString += '<a href="' + item.url.replace('github.io','github.io/plt-blog') + '" class="btn btn-transparent pl-0">' + "Read More" + '</a></li>';
       }
 
       searchResults.innerHTML = appendString;
