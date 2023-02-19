@@ -20,4 +20,6 @@ When using candles in your home, it's important to always follow safety guidelin
 
 In conclusion, fragrance preference is a personal matter, and there are a variety of options available for incorporating fragrance into your home. Whether you choose sage, lotus, or another fragrance, the benefits of candles go beyond just the scent. They offer a calming and relaxing atmosphere that can uplift the mood and promote relaxation. Just remember to always follow safety guidelines and enjoy the benefits of incorporating candles into your home.
 
-- [mini urli Purchase Link](https://www.flipkart.com/avnika-bhandari-mini-candle-urli-100-soy-wax-hand-poured-fragrance-infused/p/itma0f9432080d27?pid=CANGKDHEY6JWZ9V8)
+<div class="col-12">
+    <a class="btn btn-primary" target="blank" href="https://www.etsy.com/in-en/listing/1337173662/scented-holographic-candle-amber-candle?variation1=3266897477" type="submit">Cover Image is a Feel good Candle - Etsy Purchase link</a>
+</div>

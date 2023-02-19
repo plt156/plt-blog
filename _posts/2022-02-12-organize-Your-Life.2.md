@@ -33,6 +33,10 @@ categories:
 
 
 
+<div class="col-12">
+    <a class="btn btn-primary" target="_blank" href="https://www.flipkart.com/avnika-bhandari-dough-bowl-candle/p/itmc0ae74fa9d72f?pid=CANGKDG4NQZTFZUT" type="submit">Cover Image is a Dough Bowl Candle - Flipkart Purchase link</a>
+</div>
 
-
-[Featured image Dough bowl candle - Buy now on Flipkart](https://www.flipkart.com/avnika-bhandari-dough-bowl-candle/p/itmc0ae74fa9d72f?pid=CANGKDG4NQZTFZUT)
+<div class="col-12">
+    <a class="btn btn-primary" target="_blank" href="https://www.amazon.in/dp/B0BW16C9H7?ref=myi_title_dp" type="submit">Cover Image is a Dough Bowl Candle - Amazon Purchase link</a>
+</div>

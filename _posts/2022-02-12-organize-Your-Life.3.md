@@ -36,4 +36,10 @@ It sounds ridiculous, right? Well, it's not. It's actually pretty common for peo
 Regardless of how it works, there are plenty of ways you can use candles for this purpose in your life! 
 
 
-[Cover image is a holographic candle - Click here to Buy on Flipkart](https://www.flipkart.com/avnika-bhandari-scented-holographic-candle/p/itm229c7dc6e2548?pid=CANGKDFMGCPCHKYS)
+<div class="col-12">
+    <a class="btn btn-primary" target="blank" href="https://www.flipkart.com/avnika-bhandari-scented-holographic-candle/p/itm229c7dc6e2548?pid=CANGKDFMGCPCHKYS" type="submit">Cover Image is a holographic candle - Flipkart Purchase link</a>
+</div>
+
+<div class="col-12">
+    <a class="btn btn-primary" target="blank" href="https://www.etsy.com/in-en/listing/1337173662/scented-holographic-candle-amber-candle?variation1=3228092613" type="submit">Cover Image is a holographic candle - Etsy Purchase link</a>
+</div>

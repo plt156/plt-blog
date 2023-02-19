@@ -19,5 +19,10 @@ What do you think about chamomile? Chamomile is again very calming and that's a 
 
 The featured images has an ornamental wax tablet and one holographic candle
 
-- [holographic candle purchase link Flipkart](https://www.flipkart.com/avnika-bhandari-scented-holographic-candle/p/itm229c7dc6e2548?pid=CANGKDFMGCPCHKYS)
-- [Wax Tablet Purchase link Amazon](https://www.amazon.in/dp/B0BTVQYM55?ref=myi_title_dp)
+<div class="col-12">
+    <a class="btn btn-primary" target="blank" href="https://www.flipkart.com/avnika-bhandari-mini-candle-urli-100-soy-wax-hand-poured-fragrance-infused/p/itma0f9432080d27?pid=CANGKDHEY6JWZ9V8" type="submit">Cover Image is a mini urli - Flipkart Purchase link</a>
+</div>
+
+<div class="col-12">
+    <a class="btn btn-primary" target="blank" href="https://www.etsy.com/in-en/listing/1351159733/mini-candle-urli-100-soy-wax-hand-poured" type="submit">Cover Image is a mini urli - Etsy Purchase link</a>
+</div>

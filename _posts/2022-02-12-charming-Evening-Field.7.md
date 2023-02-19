@@ -21,4 +21,7 @@ There are many different kinds of safe candles out there, but I would suggest th
 If you want to know more about Soy wax and how to get your own safe candles at home, check out my shop page here: https://www.etsy.com/shop/prettylittlethingsab
 
 
-[amber candle featured in the post - purchase link](https://www.flipkart.com/avnika-bhandari-scented-amber-jar-candle-mood-elevation-room-freshner-luxury-home-decor/p/itm08496a4312a72?pid=CANGM4P8GAPYMSAZ)
+<div class="col-12">
+    <a class="btn btn-primary" target="blank" href="https://www.etsy.com/in-en/listing/1337173662/scented-holographic-candle-amber-candle?variation1=3212736066" type="submit">Cover Image is a Matt jar candle - Etsy Purchase link</a>
+</div>
+

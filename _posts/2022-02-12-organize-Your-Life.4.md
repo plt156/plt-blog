@@ -65,5 +65,6 @@ If you're using candles in your home, it's important to choose the right type of
 
 In conclusion, proper candle maintenance is essential for a safe and long-lasting candle experience. Always make sure to follow the recommended burn time, choose the right type of wax, and follow proper safety precautions when using candles in your home. With these tips, you can enjoy the warm glow and fragrance of candles for many hours to come."
 
-
-[Cover Image is a Matt Jar Candle, DM to order](http://instagram.com/prettylittlethings.24)
+<div class="col-12">
+    <a class="btn btn-primary" target="blank" href="https://www.etsy.com/in-en/listing/1337173662/scented-holographic-candle-amber-candle?variation1=3212736066" type="submit">Cover Image is a Matt jar candle - Etsy Purchase link</a>
+</div>
